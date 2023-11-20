@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">333353391436</string>
+    <string name="google_api_key" translatable="false">AIzaSyBYpfF_oVL_HhcRrDR3F7ATkelqS92UqMg</string>
+    <string name="google_app_id" translatable="false">1:333353391436:android:932302021c9af802ed2be9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBYpfF_oVL_HhcRrDR3F7ATkelqS92UqMg</string>
+    <string name="google_storage_bucket" translatable="false">supermarket-billing-syst-643ee.appspot.com</string>
+    <string name="project_id" translatable="false">supermarket-billing-syst-643ee</string>
+</resources>

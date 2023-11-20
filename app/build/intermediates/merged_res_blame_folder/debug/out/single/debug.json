@@ -1,0 +1,966 @@
+[
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_write.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_baseline_preview_24.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\baseline_preview_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_trends2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_weathleycandila.otf.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\weathleycandila.otf"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_btn_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_notification.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_user_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_microphone.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_arc_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_notification.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_women.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_arrow.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_write.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_baseline_print_24.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\baseline_print_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_trends2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_btn_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_roundadminicon.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\roundadminicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_user_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_trends.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_social.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_social.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_login_btn_backg.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\login_btn_backg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_btn_4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_amarante.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\amarante.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_user_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_mogra.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\mogra.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_trends.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_btn_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_notification.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_leckerli_one.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\leckerli_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_microphone.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_arc_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_women.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_favorites.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_user_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_message.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_float_icon.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_btn_5.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_text1.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\text1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_almendra_sc.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\almendra_sc.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_prociono.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\prociono.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_trends2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_homepage.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_user_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\layout_activity_cashier_login.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\layout\\activity_cashier_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_user_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_secure.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\secure.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_favorites.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_login_background.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_text.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\text.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_btn_6.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\layout_activity_display_cashier_data.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\layout\\activity_display_cashier_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_trends2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_social.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_write.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_women.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_outline_lock_24.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\outline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_social.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_trends.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_picadmin.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\picadmin.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_user_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_message.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_message.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_message.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_write.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_user_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_microphone.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_trends.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_float_icon.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_microphone.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_wel.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\wel.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_lo.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\lo.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_float_icon.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_log_background.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\log_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_microphone.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_arrow.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_float_icon.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_pp.jpg.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\pp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_btn2.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\btn2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_social.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_trends.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_favorites.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_motion.ttf.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\motion.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_aladin.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\aladin.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_women.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_background_intro.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\background_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_arrow.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_float_icon.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_write.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_cashier.jpg.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\cashier.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_btn1.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\btn1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_baseline_add_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_trends.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_write.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_trends2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_regist.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\regist.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_trends2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_notification.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_text2.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\text2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_social.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_user_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_text11.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\text11.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_message.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_admin_backg.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\admin_backg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_float_icon.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\float_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_notification.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_message.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_adminpic.jpg.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\adminpic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_user_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_user_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_notification.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_favorites.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-hdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-hdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\font_jamstoke.ttf.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\font\\jamstoke.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_arc_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_microphone.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_outline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\outline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_login_prev_ui.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\login_prev_ui.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-mdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-mdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_favorites.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_women.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-ldpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-ldpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_user_1.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "com.example.loginpage.app-merged_res-33:/layout_activity_display_cashier_data.xml.flat",
+        "source": "com.example.loginpage.app-main-35:/layout/activity_display_cashier_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xhdpi_women.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-merged_res-33:\\drawable-xxhdpi_favorites.png.flat",
+        "source": "C:\\Users\\mirja\\.gradle\\daemon\\8.0\\com.example.loginpage.app-main-35:\\drawable-xxhdpi\\favorites.png"
+    }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333353391436",
+    "project_id": "supermarket-billing-syst-643ee",
+    "storage_bucket": "supermarket-billing-syst-643ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333353391436:android:932302021c9af802ed2be9",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYpfF_oVL_HhcRrDR3F7ATkelqS92UqMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+com.example.loginpage.app-lifecycle-livedata-core-2.5.1-0 C:\Users\mirja\.gradle\caches\transforms-3\0e8f40dd2e28e1a69a34abbd96b52bee\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.loginpage.app-lifecycle-viewmodel-savedstate-2.5.1-1 C:\Users\mirja\.gradle\caches\transforms-3\1433a20bd0d85777dbeb84b666f247d2\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.loginpage.app-play-services-basement-18.1.0-2 C:\Users\mirja\.gradle\caches\transforms-3\1bfbdf4dacafe20cf0151f042253d503\transformed\play-services-basement-18.1.0\res
+com.example.loginpage.app-firebase-common-20.4.2-3 C:\Users\mirja\.gradle\caches\transforms-3\1da6d630987763cbaf93cac404e59d13\transformed\firebase-common-20.4.2\res
+com.example.loginpage.app-startup-runtime-1.1.1-4 C:\Users\mirja\.gradle\caches\transforms-3\1e643ac528168dbb92bff7e2d3156d60\transformed\startup-runtime-1.1.1\res
+com.example.loginpage.app-core-1.9.0-5 C:\Users\mirja\.gradle\caches\transforms-3\22f58fbffdad041137a20fe2c1a0f51d\transformed\core-1.9.0\res
+com.example.loginpage.app-material-1.9.0-6 C:\Users\mirja\.gradle\caches\transforms-3\24381466f0790e6bdfd2c43fdf41d2ea\transformed\material-1.9.0\res
+com.example.loginpage.app-savedstate-1.2.0-7 C:\Users\mirja\.gradle\caches\transforms-3\3227874729c766b5552116f21120eb07\transformed\savedstate-1.2.0\res
+com.example.loginpage.app-transition-1.2.0-8 C:\Users\mirja\.gradle\caches\transforms-3\4835aa03f868bccfe95640021ae31444\transformed\transition-1.2.0\res
+com.example.loginpage.app-activity-1.6.0-9 C:\Users\mirja\.gradle\caches\transforms-3\49b55acb782348cb4527dceb33ead86a\transformed\activity-1.6.0\res
+com.example.loginpage.app-viewpager2-1.0.0-10 C:\Users\mirja\.gradle\caches\transforms-3\535587a694e25c22ef893495e106adac\transformed\viewpager2-1.0.0\res
+com.example.loginpage.app-coordinatorlayout-1.1.0-11 C:\Users\mirja\.gradle\caches\transforms-3\59a26392f7b665c1cfb2969dcc4546e8\transformed\coordinatorlayout-1.1.0\res
+com.example.loginpage.app-constraintlayout-2.1.4-12 C:\Users\mirja\.gradle\caches\transforms-3\59d1895ac5495bb2c2aae1f446c4c13e\transformed\constraintlayout-2.1.4\res
+com.example.loginpage.app-recyclerview-1.1.0-13 C:\Users\mirja\.gradle\caches\transforms-3\797cc030d29cefc5a6390c1bf35cdcfa\transformed\recyclerview-1.1.0\res
+com.example.loginpage.app-emoji2-1.2.0-14 C:\Users\mirja\.gradle\caches\transforms-3\85130ed355f70e23f075aa7a4c94b5df\transformed\emoji2-1.2.0\res
+com.example.loginpage.app-lifecycle-viewmodel-2.5.1-15 C:\Users\mirja\.gradle\caches\transforms-3\871768552b62880933ca7cfda3e45f8f\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.loginpage.app-lifecycle-process-2.4.1-16 C:\Users\mirja\.gradle\caches\transforms-3\927ab5aca277e20ddf4439b35e9aa984\transformed\lifecycle-process-2.4.1\res
+com.example.loginpage.app-drawerlayout-1.1.1-17 C:\Users\mirja\.gradle\caches\transforms-3\9536a590604718976ccc2447d300ba2f\transformed\drawerlayout-1.1.1\res
+com.example.loginpage.app-annotation-experimental-1.3.0-18 C:\Users\mirja\.gradle\caches\transforms-3\9d622974dee83ccd9a1d5431ba59a37c\transformed\annotation-experimental-1.3.0\res
+com.example.loginpage.app-cardview-1.0.0-19 C:\Users\mirja\.gradle\caches\transforms-3\b38f7e0a00378ec2f01fb91faef3cfca\transformed\cardview-1.0.0\res
+com.example.loginpage.app-emoji2-views-helper-1.2.0-20 C:\Users\mirja\.gradle\caches\transforms-3\ce5c77bfdb5b4e58064c13b50da60011\transformed\emoji2-views-helper-1.2.0\res
+com.example.loginpage.app-appcompat-resources-1.6.1-21 C:\Users\mirja\.gradle\caches\transforms-3\ce79e580a34df7c4cfa7b581c4bb7113\transformed\appcompat-resources-1.6.1\res
+com.example.loginpage.app-appcompat-1.6.1-22 C:\Users\mirja\.gradle\caches\transforms-3\d8946ac60fcf366f0d2f78421d9a3312\transformed\appcompat-1.6.1\res
+com.example.loginpage.app-fragment-1.3.6-23 C:\Users\mirja\.gradle\caches\transforms-3\e80e4f75680a3dc5b11dfa3557fabed8\transformed\fragment-1.3.6\res
+com.example.loginpage.app-core-ktx-1.9.0-24 C:\Users\mirja\.gradle\caches\transforms-3\ece5c15404d9e660dc247f13a64fd534\transformed\core-ktx-1.9.0\res
+com.example.loginpage.app-play-services-base-18.1.0-25 C:\Users\mirja\.gradle\caches\transforms-3\f32f820811400fe3177fb85c8c37c03b\transformed\play-services-base-18.1.0\res
+com.example.loginpage.app-lifecycle-runtime-2.5.1-26 C:\Users\mirja\.gradle\caches\transforms-3\f55d9ef92ba04ec1a525279661cd36ca\transformed\lifecycle-runtime-2.5.1\res
+com.example.loginpage.app-browser-1.4.0-27 C:\Users\mirja\.gradle\caches\transforms-3\f6f0081b6a1f5766449755be7d4d27c8\transformed\browser-1.4.0\res
+com.example.loginpage.app-pngs-28 C:\Users\mirja\AndroidStudioProjects\Supermarket Billing\app\build\generated\res\pngs\debug
+com.example.loginpage.app-res-29 C:\Users\mirja\AndroidStudioProjects\Supermarket Billing\app\build\generated\res\processDebugGoogleServices
+com.example.loginpage.app-resValues-30 C:\Users\mirja\AndroidStudioProjects\Supermarket Billing\app\build\generated\res\resValues\debug
+com.example.loginpage.app-packageDebugResources-31 C:\Users\mirja\AndroidStudioProjects\Supermarket Billing\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.loginpage.app-packageDebugResources-32 C:\Users\mirja\AndroidStudioProjects\Supermarket Billing\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.loginpage.app-merged_res-33 C:\Users\mirja\AndroidStudioProjects\Supermarket Billing\app\build\intermediates\merged_res\debug
+com.example.loginpage.app-debug-34 C:\Users\mirja\AndroidStudioProjects\Supermarket Billing\app\src\debug\res
+com.example.loginpage.app-main-35 C:\Users\mirja\AndroidStudioProjects\Supermarket Billing\app\src\main\res
