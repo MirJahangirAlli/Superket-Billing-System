@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Supermarket Billing</string>
+    <string name="select">Gender</string>
+    <string name="h">→</string>
+</resources>
