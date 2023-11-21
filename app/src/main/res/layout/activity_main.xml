@@ -230,7 +230,7 @@
         android:layout_height="wrap_content"
         android:background="#005B41"
         android:text="Generate bill"
-        android:textColor="#fff" />
+        android:textColor="#ffff" />
 
 
 
