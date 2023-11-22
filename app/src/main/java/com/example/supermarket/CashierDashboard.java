@@ -1,11 +1,8 @@
-package com.example.finalbillingpage;
-
-
-
-
+package com.example.loginpage;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.os.Bundle;
 import android.os.Bundle;
 import android.os.Environment;
 import android.text.Editable;
@@ -17,11 +14,6 @@ import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
 
-import com.itextpdf.kernel.pdf.PdfDocument;
-import com.itextpdf.kernel.pdf.PdfWriter;
-import com.itextpdf.layout.element.Cell;
-import com.itextpdf.layout.element.Paragraph;
-import com.itextpdf.layout.element.Table;
 
 import org.w3c.dom.Document;
 
@@ -32,9 +24,7 @@ import java.io.FileOutputStream;
 import java.io.OutputStream;
 import java.util.ArrayList;
 
-
-public class MainActivity extends AppCompatActivity {
-
+public class CashierDashboard extends AppCompatActivity {
     private ArrayList<String > data=new ArrayList<String>();
     private ArrayList<String > data1=new ArrayList<String>();
     private ArrayList<String > data2=new ArrayList<String>();
@@ -45,10 +35,11 @@ public class MainActivity extends AppCompatActivity {
     Button b1;
     Button b2;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_cashier_dashboard);
         ed1 = findViewById(R.id.ed1);
         ed2 = findViewById(R.id.ed2);
         ed3 = findViewById(R.id.ed3);
@@ -92,13 +83,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
-
-
-
-
-
-
     public void add()
     {
         int tot;
@@ -155,5 +139,4 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
 }
