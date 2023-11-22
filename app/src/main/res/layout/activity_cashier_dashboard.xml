@@ -112,7 +112,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_marginRight="60dp"
->
+        >
 
         <TextView
             android:layout_width="wrap_content"
@@ -169,6 +169,7 @@
         android:width="100dp"
         android:height="25dp"
         android:background="#005B41"
+        android:gravity="center"
         android:text="Add"
         android:textColor="#fff" />
 
@@ -195,43 +196,52 @@
                 android:id="@+id/t1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="prodcut Name" />
+                android:text="Prodcut Name"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/t2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Price" />
+                android:text="Price"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Quantity" />
+                android:text="Quantity"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/t4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Total" />
+                android:text="Total"
+                android:textStyle="bold" />
 
 
         </TableRow>
 
 
     </TableLayout>
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
 
-    <Button
-        android:id="@+id/btn2"
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="#005B41"
-        android:text="Generate bill"
-        android:textColor="#ffff" />
+        android:layout_height="match_parent">
 
+        <Button
+            android:id="@+id/btn"
+            android:layout_width="200dp"
+            android:layout_height="46dp"
+            android:background="#005B41"
+            android:text="Generate bill"
+            android:textColor="#ffff"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
 
 
 </LinearLayout>
