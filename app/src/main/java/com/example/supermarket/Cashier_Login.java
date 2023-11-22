@@ -80,7 +80,7 @@ public class Cashier_Login extends AppCompatActivity {
                         if (task.isSuccessful()) {
                             // Sign in success, update UI or navigate to the next screen
                             Toast.makeText(Cashier_Login.this, "Login successful.", Toast.LENGTH_SHORT).show();
-                            Intent intent = new Intent(Cashier_Login.this, Admin_Dashboard.class);
+                            Intent intent = new Intent(Cashier_Login.this,DisplayCashierData.class);
                             startActivity(intent);
                             finish();
                             // You can add code to navigate to the next screen or update UI here
