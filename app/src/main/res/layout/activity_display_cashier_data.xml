@@ -16,7 +16,7 @@
         android:text="Cashier Details"
         android:textAlignment="center"
         android:textColor="@android:color/holo_orange_light"
-        android:textSize="45sp"
+        android:textSize="44sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/tableLayout"
         app:layout_constraintEnd_toEndOf="parent"
